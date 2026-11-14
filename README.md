@@ -10,7 +10,7 @@ I'm a B.Tech Computer Science graduate building my career in Software Testing. I
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Technology Icons
+### 💻 Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,postman" />
