@@ -10,48 +10,39 @@ I'm a B.Tech Computer Science graduate building my career in Software Testing. I
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Technologies & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,postman" />
 </p>
 
-### 🧪 Software Testing
-Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Integration Testing • System Testing • Black-box Testing
+**🧪 Testing:** Manual, Functional, Regression, Smoke, Sanity, Integration & System Testing
 
-### 📋 Testing Concepts
-SDLC • STLC • Agile Methodology • Test Scenario Design • Test Case Design • Equivalence Partitioning • Boundary Value Analysis (BVA) • Defect Life Cycle
+**📋 Concepts:** SDLC, STLC, Agile, Test Case Design, BVA, Equivalence Partitioning, Defect Life Cycle
 
-### 🔌 API & Database Testing
-REST API Testing • Postman • HTTP Methods (GET, POST, PUT, DELETE) • JSON • SQL • MySQL • PostgreSQL • Data Validation
+**🔌 API & Database:** Postman, REST API, JSON, SQL, MySQL
 
-### 🧰 Testing Tools
-Jira • Apache JMeter (Basics) • Microsoft Excel • Postman • Git • GitHub
-
-### 💡 Programming Knowledge
-Java (Basics) • Python (Basics)
+**🧰 Tools:** Jira, Apache JMeter (Basics), Microsoft Excel
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🧪 OpenCart Manual Testing
-Manual testing of an e-commerce application, covering test scenarios, test cases, test execution, and defect reporting.
+Test scenarios, test cases, execution and defect reporting for an e-commerce application.
 
 [View Project](https://github.com/prashantkumar1122/ManualTesting-OpenCart-Project)
 
 ### 🚀 E-commerce API Testing using Postman
-REST API testing covering authentication, Bearer tokens, dynamic variables, API requests, and response validation.
+API authentication, Bearer tokens, dynamic variables and response validation.
 
 [View Project](https://github.com/prashantkumar1122/Postman-Ecommerce-API-Testing-Mini-Project-1)
 
 ### ☕ Java Programs
-Practicing Java fundamentals and programming concepts.
+Java fundamentals and programming practice.
 
 [View Repository](https://github.com/prashantkumar1122/JAVA_Codes)
 
 ### 🐍 Python Programs
-Exploring Python programming fundamentals through practice programs.
+Python programming practice.
 
 [View Repository](https://github.com/prashantkumar1122/Python_Code)
 
