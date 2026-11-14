@@ -10,6 +10,12 @@ I'm a B.Tech Computer Science graduate building my career in Software Testing. I
 
 ## 🛠️ Skills & Technologies
 
+### 💻 Technology Icons
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,postman" />
+</p>
+
 ### 🧪 Software Testing
 Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Integration Testing • System Testing • Black-box Testing
 
@@ -19,8 +25,11 @@ SDLC • STLC • Agile Methodology • Test Scenario Design • Test Case Desig
 ### 🔌 API & Database Testing
 REST API Testing • Postman • HTTP Methods (GET, POST, PUT, DELETE) • JSON • SQL • MySQL • PostgreSQL • Data Validation
 
-### 🧰 Tools & Technologies
-Jira • Apache JMeter (Basics) • Microsoft Excel • Java (Basics) • Git • GitHub
+### 🧰 Testing Tools
+Jira • Apache JMeter (Basics) • Microsoft Excel • Postman • Git • GitHub
+
+### 💡 Programming Knowledge
+Java (Basics) • Python (Basics)
 
 ---
 
